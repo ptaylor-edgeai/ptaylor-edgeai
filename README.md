@@ -1,16 +1,33 @@
-## Hi there 👋
+# Paul Taylor
 
-<!--
-**ptaylor-edgeai/ptaylor-edgeai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Candidate | Edge AI & Decentralised Federated Learning Researcher**
 
-Here are some ideas to get you started:
+Systems architect turned AI researcher, bringing decades of production-scale 
+distributed systems experience to the challenges of Edge AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **PhD (in progress)** — Edge AI & Decentralised Federated Learning  
+  Capitol Technology University, Maryland (expected 2027)
+- **Master of Data Science** — James Cook University
+
+## 🔬 Research Focus
+- Decentralised Federated Learning (DFL) on ultra-constrained hardware
+- Machine unlearning for Edge AI in privacy-preserving networked systems
+- Resource-aware federated learning frameworks for IoT edge devices
+- Empirical performance characterisation on Raspberry Pi Zero 2 W clusters
+
+## 🚀 Current Projects
+| Repo | Description |
+|------|-------------|
+| [rad-fl](https://github.com/ptaylor-edgeai/rad-fl) | RAD-FL: Resource-Aware Decentralised Federated Learning framework (Swift) |
+
+## 📄 Publications & Preprints
+*Coming May 2026 — machine unlearning for Edge AI in DFL settings*
+
+## 🛠️ Background
+Before research, 40 years as a systems architect and IT consultant, 
+distributed systems, enterprise architecture and production-scale deployment.
+That background now informs how I think about Edge AI at scale.
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/paultay/)
