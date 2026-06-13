@@ -22,7 +22,7 @@ distributed systems experience to the challenges of Edge AI.
 | [rad-fl](https://github.com/ptaylor-edgeai/rad-fl) | RAD-FL: Resource-Aware Decentralised Federated Learning framework (Swift) |
 
 ## 📄 Publications & Preprints
-*Coming May 2026 — machine unlearning for Edge AI in DFL settings*
+When Forgetting Fails: Characterizing Class Unlearning Failure Modes in Non-IID Decentralized Federated Learning (https://zenodo.org/records/20642500)
 
 ## 🛠️ Background
 Before research, 40 years as a systems architect and IT consultant, 
